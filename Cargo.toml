@@ -2,6 +2,12 @@
 name = "aoc_lib"
 version = "0.1.0"
 edition = "2024"
+description = "a basic library for helping with advent of code"
+documentation = "https://docs.rs/aoc_lib"
+homepage = "https://github.com/Omay238/aoc_lib"
+repository = "https://github.com/Omay238/aoc_lib.git"
+license = "MIT"
+license-file = "LICENSE.md"
 
 [dependencies]
 rustls = "0.23"
